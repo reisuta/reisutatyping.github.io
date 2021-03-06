@@ -1,0 +1,32 @@
+#target {
+  
+  user-select: none;
+  font-size: 70px;
+  text-align: center;
+  background: skyblue;
+  color: white;
+}
+
+
+#result {
+
+  text-align: center;
+  font-size: 70px;
+}
+
+#container{
+  /* vertical-align: middle; */
+  text-align: center;
+}
+
+#start {
+  
+  
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background: #eee;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+
+}
